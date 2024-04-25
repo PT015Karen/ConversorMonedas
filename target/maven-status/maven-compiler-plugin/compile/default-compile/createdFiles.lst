@@ -1,0 +1,5 @@
+openexchange\ExchangeService.class
+openexchange\JsonRateParser.class
+openexchange\CurrencyExchangeApp.class
+test\CurrencyExchangeAppTest.class
+openexchange\CurrencyConverter.class
